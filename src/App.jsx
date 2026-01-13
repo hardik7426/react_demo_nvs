@@ -5,15 +5,17 @@ import StringState from "./CE301225/string_state";
 import RenderCond from "./CE301225/render_cond";
 import StateExample from "./CE01012026/state_excersice";
 import ContactBook from "./CEAB6126/contactbook";
+import ProductSelector from "./CE812026/quantity";
 function App() {
   return (
     <>
-    {/* Hello World */}
+    {/* Hello World */}      
     {/* <FirstClass /> */}
     {/* <Cardcomponent />
   <StateExample /> */}
   {/* <StateExample /> */}
-    <ContactBook />
+    {/* <ContactBook />  */}
+    <ProductSelector/>
 
   {/* <RenderCond/> */}
     </>
