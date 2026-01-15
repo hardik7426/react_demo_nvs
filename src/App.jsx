@@ -6,6 +6,8 @@ import RenderCond from "./CE301225/render_cond";
 import StateExample from "./CE01012026/state_excersice";
 import ContactBook from "./CEAB6126/contactbook";
 import ProductSelector from "./CE812026/quantity";
+import MultiPart from "./CE13012026/multipart";
+
 function App() {
   return (
     <>
@@ -15,9 +17,9 @@ function App() {
   <StateExample /> */}
   {/* <StateExample /> */}
     {/* <ContactBook />  */}
-    <ProductSelector/>
+    {/* <MultiPart/> */}
 
-  {/* <RenderCond/> */}
+  <ProductSelector/>
     </>
   
   );
