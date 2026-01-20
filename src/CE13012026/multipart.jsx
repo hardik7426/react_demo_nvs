@@ -7,7 +7,7 @@ class MultiPart extends Component {
       t1: "",
       t2: "",
       t3: "",
-      t4: "", // radio button value
+      t4: "", 
       t5: "",
       t6: "",
       t7: "",
