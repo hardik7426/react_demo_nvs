@@ -14,7 +14,8 @@
 // import Todo from "./CE21012026/todo";
 // import Usestate3 from "./CE21012026/usestate";
 
-import Hook1 from "./ CE29012026/hook1";
+// import Hook1 from "./ CE29012026/hook1";
+import Cart from "./CE100226/cart";
 // import Contact from "./CE270126/contact_book";
 
 function App() {
@@ -26,7 +27,7 @@ function App() {
   <StateExample /> */}
   {/* <StateExample /> */}
     {/* <ContactBook />  */}
-    <Hook1/>
+    <Cart/>
 
   {/* <ProductSelector/> */}
     </>
