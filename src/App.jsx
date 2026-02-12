@@ -15,7 +15,8 @@
 // import Usestate3 from "./CE21012026/usestate";
 
 // import Hook1 from "./ CE29012026/hook1";
-import Cart from "./CE100226/cart";
+// import Cart from "./CE100226/cart";
+import GradeManagement from "./CE1202026/grade_management";
 // import Contact from "./CE270126/contact_book";
 
 function App() {
@@ -27,7 +28,7 @@ function App() {
   <StateExample /> */}
   {/* <StateExample /> */}
     {/* <ContactBook />  */}
-    <Cart/>
+    <GradeManagement/>
 
   {/* <ProductSelector/> */}
     </>
